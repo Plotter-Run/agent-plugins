@@ -1,0 +1,10 @@
+{
+  "name": "plotter",
+  "version": "0.3.1",
+  "description": "Work through website feedback from Plotter: read the client's marks as tasks, apply them, ask when one is unclear, and resolve them. Or send a static build to Plotter for review.",
+  "author": { "name": "Peek House", "url": "https://plotter.run" },
+  "homepage": "https://plotter.run",
+  "repository": "https://github.com/Plotter-Run/agent-plugins",
+  "keywords": ["review", "feedback", "client", "design", "mcp"],
+  "logo": "assets/logo.svg"
+}
